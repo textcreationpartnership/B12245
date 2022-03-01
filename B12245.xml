@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The course of the tare of cloth in Holland</title>
+            <author>Company of Merchant Adventurers of England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1627</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12245</idno>
+            <idno type="STC">STC 5875</idno>
+            <idno type="STC">ESTC S114530</idno>
+            <idno type="EEBO-CITATION">99849755</idno>
+            <idno type="PROQUEST">99849755</idno>
+            <idno type="VID">177900</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B12245)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177900)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1268:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The course of the tare of cloth in Holland</title>
+                  <author>Company of Merchant Adventurers of England.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1627]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the right honourable the Lords of His Maiesties most honourable Privie Counsell. The humble petition of the fellowship of the Merchants Adventurers of England" at end.</note>
+                  <note>Place and date of publication from STC.</note>
+                  <note>Requesting aid in obtaining relief from the Dutch abatements in payment for allegedly faulty cloth. --STC.</note>
+                  <note>Identified as STC 5875a on UMI microfilm reel 1268.</note>
+                  <note>Marked.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Privy Council --  Early works to 1800.</term>
+               <term>Great Britain --  Commerce --  Netherlands --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:177900:1"/>
+            <pb facs="tcp:177900:2" rendition="simple:additions"/>
+            <byline>
+               <add>This was written by y<hi rend="sup">e</hi> m<expan>
+                     <am>
+                        <g ref="char:aber"/>
+                     </am>
+                     <ex>er</ex>
+                  </expan>chantes Adventurers</add>
+            </byline>
+            <head>The Courſe of the Tare of Cloth in Holland.</head>
+            <p>BY the Ancient Law of the <hi>Romans,</hi> called <hi>Edictum Aedilitium:</hi> (of the <hi>AEdiles</hi> that made it) it was free to the Buyer of any ſlaue or other Merchandize that had a<g ref="char:EOLhyphen"/>ny hidden fault, which would not be perceived by ordinary view, to make further viſitation of the thing ſo bought afterwards; and if it proved faulty then, at his choice either to returne the ſame vpon the Seller, or elſe retaining it, to haue the defect valued by indifferent perſons, and then the value of the faults to be allowed him by the Buyer out of the price. This Law, among many other Lawes of the <hi>Romanes,</hi> is currant to this day in <hi>Germany,</hi> and the <hi>Low Countries,</hi> yet ſo, as it is nevertheleſſe free to ſell a Commodity, <hi>Per averſionem;</hi> that is, to be taken with all faults, if the buyer will conſent thereunto according to the rule; <hi>Quilibet iuri pro ſe introducto poteſt renuntiare?</hi>
+            </p>
+            <p>The Merchants Adventurers, trading in Cloth, with the Merchants of <hi>Germany,</hi> and of the <hi>Low Countries,</hi> and ſettling the <hi>Rendevouſe</hi> of their trade in each of theſe, in one place called their <hi>Mart Towne,</hi> did of ancient time allow abatement vnto the Buyers for ſuch faults of their Clothes, (eſpecially for narrowneſſe and ſhortneſſe,) as were found in the opening of the ſame, after they came to the Buyers hands, which allowance or abatement was at firſt made onely in their <hi>Mart Towne,</hi> and before the Cloth was wet; in this manner. The Merchant Buyer having in opening of his Cloth in the <hi>Mart Towne,</hi> found them to be too narrow or too ſhort, did forthwith ac<g ref="char:EOLhyphen"/>quaint the Seller, that the Cloth was found to be faulty, whereupon the parties agreed vpon two good men, one of each Nation, to viſit the Cloth, and to value the faults; which valuation is by the <hi>Dutch</hi> called <hi>Tare:</hi> &amp; that being thus made, the Seller was to allow the Buyer the ſum ſo taxed out of the price of Cloth; which <hi>Tare</hi> &amp; al<g ref="char:EOLhyphen"/>lowance being ſo made, the Seller made <hi>Affadauit</hi> thereof before the Secretary of the Fellowſhip of Merchants Adventurers, reſiding in the <hi>Mart Towne,</hi> who gaue cer<g ref="char:EOLhyphen"/>tificat of the ſame vnder the Seale at cauſes of the Company. By vertue whereof the <hi>Engliſh</hi> Merchant was inabled to recover the ſaid abatement againe of the Clothier, that ſold him the Cloth here in <hi>England.</hi>
+            </p>
+            <p>This <hi>Tare</hi> being thus at firſt made in the <hi>Mart Towne,</hi> the <hi>Dutch</hi> Merchants that dwelt in other Townes, pretending haſt and want of leiſure to viſit their Cloth in the <hi>Mart</hi> Townes, carried it home to the ſeverall Townes where they dwelt, where finding defects of length and breadth in the Clothe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, they cauſed the ſworne Meaſurer of the place to mete them over, and certifie the want of length or ſize vnder his hand, which certificat being brought to the <hi>Engliſh</hi> Merchant, and being at firſt for no greater matters then were vſually found in the <hi>Mart</hi> Towne, he allowed therefore according to the Rate as the Cloth coſt, and made his <hi>Affadavit</hi> thereof to the <hi>En<g ref="char:EOLhyphen"/>gliſh Secretary,</hi> and tooke his Certificat accordingly?</p>
+            <p>After this was dawn thus in Train, and the <hi>Dutch</hi> Merchants began to feele the ſweetneſſe of theſe allowances, made greater by the abſence of the <hi>Engliſh</hi> Merchants began to feele the ſweetneſſe of theſe allowances, made greater by the abſence of the <hi>Engliſh</hi> Merchants, they further proceeded to make abatement for Rimples, Bandes, holes, and ſtopſalles in the Cloth, at their owne home. And for the taxing of the true value of theſe faults, as alſo of ſhortneſſe and narrowneſſe, they cauſed (for better colour of their proceedings) an office to be erected in every Towne of ſworne men to viſit <hi>Engliſh</hi> Cloths, and to eſtimate and taxe the damage thereby ſuſtained by the Buyer, whereof certificat being brought to the <hi>Engliſh</hi> Merchants in the <hi>Mart</hi> Towne, he was compelled to allow the ſame, and to ſeeke the remedy of the Clothier here, by ſuch certificat from the Secretary of the Company, as is above mentioned. The courſe thus ſettled, the <hi>Dutch</hi> grew daily to make their <hi>Tare</hi> more and more vn<g ref="char:EOLhyphen"/>reaſonable, the Viſitors or Tare-maſters favouring thoſe that brought them worke, and adding to the Tare not only the ſalary of their labour, but alſo the charges of their meeting, which was ſometimes a Pot of Wine, two or three, ſometimes a dinner, at laſt what they would ſpend vnder colour of that occaſion: So that the Tare-maſters, and ſome of the <hi>Dutch</hi> Merchants bragg'd, that they had built faire houſes, by the benefit of the Tare of <hi>Engliſh</hi> Cloth.</p>
+            <p>The Clothier of <hi>England</hi> feeling the ſmart of this Tare, (although he ſeldome allowed his Merchant the one halfe of that the ſame Merchant had paid to the <hi>Dutch</hi>) complained to the Parliament in the 43. yeare of Queene <hi>Elizabeth;</hi> and ſo prevailed, that it was enacted, that he ſhould not be liable to allow the Merchant any thing vpon any certificat brought from forraigne parts, yea although he ſhould contract with him to doe it. Hereupon the <hi>Engliſh</hi> Merchant fell vnto a great and con<g ref="char:EOLhyphen"/>tinuall loſſe: the Clothier now making falſer Cloth then ever before, and the <hi>Dutch</hi> Merchant more Tare; ſo that looſing oft, of his principall he complained to the Parliament,<note place="margin">b:</note> in the 4. yeare of his Maieſties Raigne that now is, and craved his ancient remedy by certificat, which was denied him: yet it was enacted, to the end he ſhould not be without remedy, that he ſhould haue power to viſit his Cloth here at home, and to recover of the Clothier, for ſhortneſſe, narrowneſſe, and want of weight, according to certaine rates by the Statute appointed.</p>
+            <p>
+               <note place="margin">b:</note>And therefore for a further remedy the Company of Merchants Adventurers reſiding at <hi>Hamburgh,</hi> did in the yeare 1611, agree and order among themſelves, to ſell all their Cloth, with this ſpeciall part and condition in their contract of ſale; that they would not be liable to allow any Tare, but ſuch only as ſhould be made in the <hi>Mart</hi> Towne, where they might ſee how they were dealt withall in the taxing of the faults, and that on<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y in the dry Cloth, before that was ſophiſticated in the wetting. And this order the next yeare after they eſtabliſhed alſo at <hi>Middleburgh,</hi> their <hi>Mart</hi> Towne for the <hi>Netherlands,</hi> and ſo brought this Tare buſines to a good reformation.</p>
+            <p>But in the yeare 1614 the new Company for Dying and Dreſſing being erected, the <hi>Netherlanders</hi> ſoone regained that from them, which the old Company had got<g ref="char:EOLunhyphen"/>ten before,<note place="margin">co:</note> and procured an Edict of the States generall, that it ſhould be lawfull for Tare to be made in any of 28 ſeverall Townes in the ſame Edict mentioned, not<g ref="char:EOLhyphen"/>withſtanding any contract to the contrary. Now whereas it was by that Edict left free, and by the cuſtome of Merchants vſuall, that the ſurpluſage of length in any Cloth ſhould be caſt in compenſation of the defect of dreadth, this alſo by a new Inſtruction of the States, touching the Tare cauſe publiſhed in Print Anno 1617: was taken away: And in this ſtate the Tare cauſe remaineth to this day, and the Merchants Adventurers allow for Tare at the leaſt ten thouſand pounds a yeare. And yet further the remedy provided for them by the Act of Parliament 4. <hi>Iacobi,</hi> in ſtead of their old remedy by certificates, is now by a new Act of this laſt Parliament taken away: the penalties for defects of Cloth being all given to the poore and the Searchers; but no recompence left to the party damnified.</p>
+            <div type="part">
+               <head>TO THE RIGHT HONOVRABLE THE LORDS OF HIS Maieſties moſt Honorable Privie Counſell. The humble Petition of the Fellowſhip of the merchants Adventurers of England.</head>
+               <p>MOſt humbly ſhewing that vpon complaint heretofore made by the Petitioners of the great wrong and damage ſuſtained by them, and the very Trade of this Land, as well by the vniuſt Taring and Abatement made by the Merchants of <hi>Holland,</hi> and other the vnited Provinces, vnder colour of defects of the Cloth ſold them by the Petitioners; as alſo by the immoderate Impoſitions levied by the Lords States generall vp<g ref="char:EOLhyphen"/>on <hi>Engliſh</hi> Cloth, yet leaving the Cloth of their owne Country free of the ſame.</p>
+               <p>It pleaſed this Honourable Boord by their letters dated in <hi>February, Anno</hi> 1624. to recommend the cauſe to the Right Honourable the Lord <hi>Carleton,</hi> then Ambaſſadour reſident with the ſaid Lords States for his late Maieſty of bleſſed memory, to be by his Lordſhip negotiated with the ſaid Lords States in his ſaid Maieſties name, and due redreſſe demanded; wherein after his Lordſhip had accordingly made very good entrance, it pleaſed his Maieſty, that is now to commit the ſeconding thereof vnto the moſt honourable the Duke of <hi>Buckingham,</hi> when his Grace went Am<g ref="char:EOLhyphen"/>baſſadour extraordinary to the ſaid Lords States, with whom alſo his Grace dealt effectually herein, as the ſhortneſſe of the time would then permit.</p>
+               <p>But both his Grace and the ſaid Lord <hi>Carleton</hi> returning before the cauſe could be brought to an end, by reaſon of the delayes vſed by the <hi>Dutch</hi> party, and his Maieſty having ſithence vntill now had no Ambaſſadour there, the Petitioners for the Interim by mediation of your Lord<g ref="char:EOLhyphen"/>ſhips obtained his Maieſties Royall Letters to the ſaid Lords States to accept of the perſon of Mr. <hi>Miſſelden,</hi> Deputy Governour of the Company of Merchants Adventurers reſiding at <hi>Delfe</hi> in <hi>Holland,</hi> for the ſollicitation of the ſaid cauſe, wherein he hath ſince accordingly travailed, but as yet without effect: In the meane time the grievance of Tare hath rather increaſed then otherwiſe; the Company at <hi>Delfe</hi> having made an exact In<g ref="char:EOLhyphen"/>quiry &amp; collection of ſuch ſummes as haue bin abated the laſt yeare in this kind, whereof they finde the totall to be aboue ten thouſand pound, from <hi>Decemb:</hi> 1625, to <hi>Decemb.</hi> 1626.</p>
+               <p>Now foraſmuch as this grievance of Tare, and the other of Impoſition are ſuch as without redreſſe will vtterly diſable the Petitioners to con<g ref="char:EOLhyphen"/>tinue their Trade: And for that they vnderſtand that his Maieſty hath reſolved ſhortly to ſend over the Right Honourable the Lord <hi>Carleton</hi> a<g ref="char:EOLhyphen"/>foreſaid, as Ambaſſadour extraordinary to the ſaid Lords States: The Petitioners humble ſuite is, that it will pleaſe your good Lordſhipps to be a meanes to his Maieſty, that the ſaid cauſes of Tare and impoſitions may be committed and given in charge to the ſaid Lord <hi>Carleton</hi> to be now by his Lordſhip reſumed and purſued to an effectuall remedy and concluſion: And the ſaid Mr. <hi>Miſſelden</hi> that hath ſollicited the ſaid cauſes in the Interim as aforeſaid, ſhall attend his Lordſhip with full information, as well of that which hath paſſed in his Lordſhips abſence; as with what<g ref="char:EOLhyphen"/>ſoever elſe ſhall be requiſite on the Merchant part: And the Petitioners ſhall daily pray.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
